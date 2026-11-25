@@ -1,0 +1,52 @@
+# Keil 中间文件
+*.o
+*.d
+*.obj
+*.axf
+*.elf
+*.bin
+*.hex
+*.map
+*.sct
+*.lnp
+*.plg
+*.lst
+*.pax
+*.m51
+*.crf
+*.htm
+*.iex
+*.fex
+*.tcr
+*.dbg
+*.scvd
+*.bak
+*.lnp
+*.dep
+*.uvguix.*
+
+# Keil 工程生成目录
+Debug/
+Release/
+Objects/
+Listings/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Python 临时文件
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+*.bmp
+*.ppm
+frames/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
